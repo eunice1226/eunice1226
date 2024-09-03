@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Eunice</h1>
 <h3 align="center">An Engineer</h3>
 
-- 🔭 I’m currently working on **deploying image classification model**
+- 🔭 I’m currently working on **LLM data processing and LLM model FT**
 
-- 🌱 I’m currently learning **web crawler and LLM**
+- 🌱 I’m currently learning **object detection**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
