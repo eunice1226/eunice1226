@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi 👋</h1>
+<h1 align="left">Hello 👋</h1>
 
 🌱 I'm Eunice  
 👩🏻‍💻 I’m an engineer in AI team  
