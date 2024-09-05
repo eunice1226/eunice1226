@@ -15,8 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi 👋, I'm Eunice</h1>
+<h1 align="center">Hi 👋</h1>
 
+🌱 I'm Eunice  
 👩🏻‍💻 I’m an engineer in AI team  
 
 <h3 align="left">Connect with me:</h3>
