@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <h1 align="left">Hello 👋</h1>
 
 🐻 I'm Eunice  
-👩🏻‍💻 I’m an engineer in AI team  
+👩🏻‍💻 I’m an AI Data Engineer  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
